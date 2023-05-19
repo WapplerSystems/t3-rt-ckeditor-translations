@@ -2,7 +2,7 @@
 
 ## What does it do?
 
-This extension provides the translation files for the CKEditor in TYPO3
+This extension provides the translation files for the CKEditor in TYPO3 12
 
 ## Installation
 
